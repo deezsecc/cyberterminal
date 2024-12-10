@@ -1,11 +1,9 @@
-```
- ## CyberTerminal 🔒🚀
+## CyberTerminal 🔒🚀
 
-Welcome to  CyberTerminal, an immersive, hacker-inspired portfolio showcasing my technical capabilities, projects, and ways to connect! Built with React, TailwindCSS, and an extra dose of cyber vibes. Type `help` in the terminal to get started.
+Welcome to  **CyberTerminal**, an immersive, hacker-inspired portfolio showcasing my technical capabilities, projects, and ways to connect! Built with React, TailwindCSS, and an extra dose of cyber vibes. Type `help` in the terminal to get started.
 
 
 ## ⚡ Features
-
 - Interactive Terminal: Explore commands to learn about DeezSec's projects, skills, and more.
 - Command Highlights:
   - `help` → View available commands.
@@ -19,18 +17,16 @@ Welcome to  CyberTerminal, an immersive, hacker-inspired portfolio showcasing my
   - Responsive Design: Perfectly styled for any device.
   - Cursor Animation: Blinking cursor to mimic real-world terminal feel.
 
-
 ## 💻 Command Reference
 
-| Command   | Description                                   |
-|-----------|-----------------------------------------------|
+| Command   | Description                                  |
+|-----------|----------------------------------------------|
 | `help`    | Show all available commands.                 |
 | `projects`| Explore showcased projects.                  |
 | `skills`  | See technical strengths and expertise.       |
 | `contact` | Find secure ways to reach DeezSec.           |
 | `whoami`  | Get to know more about DeezSec.              |
 | `clear`   | Reset the terminal log.                      |
-
 
 
 ## 🛠️ Tech Stack
@@ -40,7 +36,6 @@ Welcome to  CyberTerminal, an immersive, hacker-inspired portfolio showcasing my
 - Lucide Icons: Sleek and lightweight icon library.
 - JavaScript: Dynamic functionality for terminal interaction.
 
-```
 
 ## 🚀 Getting Started
   
