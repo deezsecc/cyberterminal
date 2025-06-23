@@ -4,7 +4,7 @@ Welcome to  **CyberTerminal**, an immersive, hacker-inspired portfolio showcasin
 
 
 ## ⚡ Features
-- Interactive Terminal: Explore commands to learn about DeezSec's projects, skills.
+- Interactive Terminal: Explore commands to learn about DeezSec's projects, skills
 - Commands:
   - `help` → View available commands.
   - `projects` → Discover my innovative work.
