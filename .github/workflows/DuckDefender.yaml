@@ -44,6 +44,7 @@ jobs:
           LOG_LEVEL: info
       run: |
         docker run -e FD_API_KEY="$FD_API_KEY" \
+          -e EXIT_ON_ERROR=true \
           -e GITHUB_REPOSITORY_OWNER="$GITHUB_REPOSITORY_OWNER" \
           -e GITHUB_REPOSITORY_OWNER_ID="$GITHUB_REPOSITORY_OWNER_ID" \
           -e GITHUB_REPOSITORY="$GITHUB_REPOSITORY" \
